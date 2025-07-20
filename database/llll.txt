@@ -1,0 +1,6 @@
+goals page
+dashboard signup login
+face recog login
+budget page expense alert
+category chart
+py -m pip install --upgrade matplotlib
